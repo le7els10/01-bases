@@ -1,0 +1,9 @@
+#desplegar ambiente dev
+ng serve -o
+
+
+#generar componente
+ng g c ruta/nombre
+
+#build de produccion
+ng build --prod
